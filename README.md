@@ -9,8 +9,11 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a classically trained guitarist
 ---
-:closed_book:  Publications & Papers
-
+:closed_book: Publications & Papers
+Emerging Jets at Long-lived particle Experiments (work in prgress)
+[Triggering on Emerging Jets](https://arxiv.org/abs/2103.08620)
+[Gravitational Wave Signals from Multiple Hidden Sectors](https://arxiv.org/abs/1910.02083)
+[Searching for long-lived particles beyond the Standard Model at the Large Hadron Collider](https://arxiv.org/abs/1903.04497)
 
 ---
 
