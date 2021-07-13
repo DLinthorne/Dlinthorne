@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a classically trained guitarist
 ---
-:closed_book: Publications & Papers
+:closed_book: Publications & Papers:
 
 Emerging Jets at Long-lived particle Experiments (work in prgress)
 
