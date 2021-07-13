@@ -16,10 +16,11 @@
 <img align="left" alt="R" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="c++" width="30px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="matlab" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+<img align="left" alt="sql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="latex" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 <img align="left" alt="jupyter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="30px" src="68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f363330383030302f313839363632302f39336461393962342d376261622d313165332d393330392d3432363539373539643366352e6a7067.jpeg" />
+<img align="left" alt="mathematica" width="30px" src="68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f363330383030302f313839363632302f39336461393962342d376261622d313165332d393330392d3432363539373539643366352e6a7067.jpeg" />
 
 <br />
 
