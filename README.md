@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on academic research
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a classically trained guitarist
-- 
 ---
 ### Languages and Tools:
 
