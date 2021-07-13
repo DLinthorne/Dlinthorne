@@ -9,7 +9,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a classically trained guitarist
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DLinthorne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DLinthorne)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DLinthorne/Dlinthorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
