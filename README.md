@@ -21,6 +21,7 @@
 <img align="left" alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 <img align="left" alt="jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f363330383030302f313839363632302f39336461393962342d376261622d313165332d393330392d3432363539373539643366352e6a7067.jpeg" />
 
 <br />
 
