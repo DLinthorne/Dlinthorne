@@ -3,7 +3,7 @@
 
 ## I'm a Particle Physics & Astrophysics PhD researcher
 
-- 🔭 I'm teaching senior/graduate data analysis labs/courses
+- 🔭 I'm currently teaching senior/graduate data analysis labs/courses
 - 🌱 I’m looking for an exciting change from academia to industry
 - 👯 I’m looking to collaborate on academic research
 - 😄 Pronouns: he/him
