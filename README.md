@@ -1,13 +1,13 @@
 ### Hi there, I'm Dylan 👋
 
 
-## I'm a Particle Physics & Astrophysics PhD researcher.
+## I'm a Particle Physics & Astrophysics PhD researcher
 
-- 🔭 I just launched my first course:
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I'm teaching senior/graduate data analysis labs/courses
+- 🌱 I’m looking for an exciting change from academia to industry
+- 👯 I’m looking to collaborate on academic research
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a classically trained guitarist
 <!--
 **DLinthorne/Dlinthorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
