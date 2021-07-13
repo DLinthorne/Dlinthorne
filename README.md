@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Dylan 👋
 
+
+## I'm a Particle Physics & Astrophysics PhD researcher.
+
+- 🔭 I just launched my first course:
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
 <!--
 **DLinthorne/Dlinthorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
