@@ -9,7 +9,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a classically trained guitarist
 ---
-:closed_book: 
+:closed_book: Publications & Papers
+
 
 ---
 
