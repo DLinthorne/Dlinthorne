@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on academic research
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a classically trained guitarist
----
+
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -24,7 +24,6 @@
 
 <br />
 
----
 ### :closed_book: Publications & Papers:
 
 Emerging Jets at Long-lived particle Experiments (work in prgress)
