@@ -26,7 +26,7 @@
 
 ### :closed_book: Publications & Papers:
 
-Emerging Jets at Long-lived particle Experiments (work in prgress)
+[Emerging Jets at Long-lived particle Experiments](https://arxiv.org/abs/2112.05690)
 
 [Triggering on Emerging Jets](https://arxiv.org/abs/2103.08620)
 
