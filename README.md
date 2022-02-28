@@ -34,7 +34,7 @@
 
 [Searching for long-lived particles beyond the Standard Model at the Large Hadron Collider](https://arxiv.org/abs/1903.04497)
 
-[On the hunt for dark photons:improving the tracking of vertical drift chambers](https://library2.smu.ca/handle/01/26614)
+[On the hunt for dark photons: improving the tracking of vertical drift chambers](https://library2.smu.ca/handle/01/26614)
 
 ---
 
