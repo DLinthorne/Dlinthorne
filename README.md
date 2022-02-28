@@ -7,7 +7,7 @@
 - 🌱 I’m looking for an exciting change from academia to industry
 - 👯 I’m looking to collaborate on academic research
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a classically trained guitarist
+- ⚡ Fun fact: I'm a classically trained guitarist and (aspiring) amateur boxer
 
 ## Languages and Tools:
 
@@ -34,6 +34,7 @@
 
 [Searching for long-lived particles beyond the Standard Model at the Large Hadron Collider](https://arxiv.org/abs/1903.04497)
 
+[On the hunt for dark photons:improving the tracking of vertical drift chambers](https://library2.smu.ca/handle/01/26614)
 
 ---
 
