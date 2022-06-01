@@ -5,7 +5,7 @@
 
 - 😄 Pronouns: he/him
 - 🌱 I’m currently a working data scentisit in tech
-- 🔭 I've developing & taught senior/graduate data analysis labs/courses
+- 🔭 I've develop & taught senior/graduate data analysis labs/courses
 - 👯 I’m looking to collaborate on academic research
 - ⚡ Fun fact: I'm a classically trained guitarist and (causual) amateur boxer
 
