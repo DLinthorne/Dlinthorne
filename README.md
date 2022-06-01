@@ -4,10 +4,10 @@
 ## I'm a Particle Physics & Astrophysics PhD researcher
 
 - 😄 Pronouns: he/him
-- 🔭 I'm developing & teaching senior/graduate data analysis labs/courses
-- 🌱 I’m looking for an exciting change from academia to industry
+- 🌱 I’m currently a working data scentisit in tech
+- 🔭 I've developing & taught senior/graduate data analysis labs/courses
 - 👯 I’m looking to collaborate on academic research
-- ⚡ Fun fact: I'm a classically trained guitarist and (aspiring) amateur boxer
+- ⚡ Fun fact: I'm a classically trained guitarist and (causual) amateur boxer
 
 ## Languages and Tools:
 
